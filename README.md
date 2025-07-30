@@ -81,5 +81,5 @@ Distributed under the MIT License.
 
 **Tip:** Use the Colab platform for the fastest, most accessible start—no setup required beyond uploading your data file! If you change filenames or columns, update references in the notebook accordingly.
 
-*Ready to explore your sales insights in Colab? Open the notebook, upload your dataset, and see your summary charts in minutes!*
+
 
